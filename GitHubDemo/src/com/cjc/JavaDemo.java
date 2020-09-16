@@ -8,7 +8,8 @@ public class JavaDemo {
 	}
 
 	public static void main(String[] args) {
-
+        JavaDemo jd=new JavaDemo();
+		jd.add();
      System.out.println("Hello");
 
 	}
